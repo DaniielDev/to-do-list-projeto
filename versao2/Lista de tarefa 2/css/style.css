@@ -1,0 +1,11 @@
+.btnStyle {
+  margin-left: 10px;
+  cursor: pointer;
+  padding: 2px 6px;
+}
+
+.concluida {
+  text-decoration: line-through;
+  color: gray;
+  opacity: 0.7;
+}/*# sourceMappingURL=style.css.map */
